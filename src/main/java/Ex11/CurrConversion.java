@@ -1,6 +1,10 @@
 package Ex11;
 
-import java.math.BigDecimal;
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Richard Pekarski
+ */
+
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 
